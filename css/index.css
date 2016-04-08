@@ -1,3 +1,12 @@
+.inicio-post{
+    background-color: #FFF;
+    position: absolute;
+    top: 3em;
+    right: 0.1em;
+    height: 3em;
+    padding: 0.5em;
+    color: #000;
+}
 .foto-home {
     height: 200px;
 }
@@ -66,6 +75,7 @@
     background-color: #999;
     color: #FFF;
     border-bottom: .5em solid #851944;
+    position: relative;
 }
 .blog small {
     position: relative;
@@ -91,4 +101,65 @@ main {
     width: 100%;
     padding-bottom: 0;
     float: none;
+}
+.palavra-home {
+    font-family: Shadows Into Light;
+}
+.eficiencia {
+  position: absolute;
+  top: 20%;
+  left: 75%;
+}
+.boas-praticas {
+  position: absolute;
+  top: 30%;
+  left: 85%;
+}
+.codigo-limpo {
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+.css3 {
+  position: absolute;
+  top: 40%;
+  left: 75%;
+}
+.html5 {
+  position: absolute;
+  top: 50%;
+  left: 65%;
+}
+.javascript {
+  position: absolute;
+  top: 20%;
+  right: 75%;
+}
+.acessibilidade {
+  position: absolute;
+  top: 30%;
+  right: 85%;
+}
+.responsivo {
+  position: absolute;
+  top: 10%;
+  right: 65%;
+}
+.otimizacoes {
+  position: absolute;
+  top: 40%;
+  right: 75%;
+}
+.agilidade {
+  position: absolute;
+  top: 50%;
+  right: 65%;
+}
+.design {
+  position: absolute;
+  top: 30%;
+  right: 65%;
+}
+.fundo-link-post {
+    background-color: #FFF;
 }
